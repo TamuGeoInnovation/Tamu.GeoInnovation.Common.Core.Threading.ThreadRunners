@@ -1,0 +1,4 @@
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Threading.ThreadRunners\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Threading.ThreadRunners.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Threading.ThreadRunners\src\Main\obj\Release\Common.Core.Threading.ThreadRunners.csprojResolveAssemblyReference.cache
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Threading.ThreadRunners\src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Threading.ThreadRunners.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Threading.ThreadRunners\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Threading.ThreadRunners.dll
