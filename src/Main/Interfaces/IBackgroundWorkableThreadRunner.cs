@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.ComponentModel;
-using System.Data;
-using System.Diagnostics;
-using System.Threading;
+﻿using System.ComponentModel;
 using USC.GISResearchLab.Common.Threading.ProgressStates;
 
 namespace USC.GISResearchLab.Common.Threading.ThreadRunners.Interfaces
