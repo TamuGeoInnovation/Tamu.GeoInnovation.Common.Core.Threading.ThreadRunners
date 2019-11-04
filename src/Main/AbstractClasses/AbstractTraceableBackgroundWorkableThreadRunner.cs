@@ -9,7 +9,7 @@ namespace USC.GISResearchLab.Common.Threading.ThreadRunners.AbstractClasses
 
     public abstract class AbstractTraceableBackgroundWorkableThreadRunner : AbstractBackgroundWorkableThreadRunner, ITraceableBackgroundWorkableThreadRunner
     {
-        
+
         #region Tracing Properties
 
         private TraceSource _TraceSource;

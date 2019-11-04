@@ -30,7 +30,7 @@ namespace USC.GISResearchLab.Common.Threading.ThreadRunners.AbstractClasses
 
         public override void DoStopActions()
         {
-            
+
         }
     }
 }

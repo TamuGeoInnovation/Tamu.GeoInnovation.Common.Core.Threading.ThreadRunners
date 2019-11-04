@@ -7,7 +7,7 @@ namespace USC.GISResearchLab.Common.Threading.ThreadRunners.AbstractClasses
 
     public abstract class AbstractThreadRunner : IThreadRunner
     {
-        
+
         #region Properties
 
         private volatile bool _ShouldStopFlag;

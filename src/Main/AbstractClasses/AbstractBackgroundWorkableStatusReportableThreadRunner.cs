@@ -26,7 +26,7 @@ namespace USC.GISResearchLab.Common.Threading.ThreadRunners.AbstractClasses
 
         public virtual void UpdateProcessingStatusNumberCompleted()
         {
-            UpdateProcessingStatusNumberCompleted(RecordsCompleted+ 1);
+            UpdateProcessingStatusNumberCompleted(RecordsCompleted + 1);
         }
 
         public virtual void UpdateProcessingStatusNumberCompleted(int numberCompleted)

@@ -1,9 +1,8 @@
 using System;
 using System.Threading;
-
+using USC.GISResearchLab.Common.Core.Databases;
 using USC.GISResearchLab.Common.Databases.QueryManagers;
 using USC.GISResearchLab.Common.Threading.ThreadRunners.Interfaces;
-using USC.GISResearchLab.Common.Core.Databases;
 
 namespace USC.GISResearchLab.Common.Threading.ThreadRunners.AbstractClasses
 {
