@@ -22,55 +22,13 @@ namespace USC.GISResearchLab.Common.Threading.ThreadRunners.AbstractClasses
             get { return ShouldStopFlag; }
         }
 
-        private string _RunnerName;
-        public string RunnerName
-        {
-            get { return _RunnerName; }
-            set { _RunnerName = value; }
-        }
-
-        private DateTime _Created;
-        public DateTime Created
-        {
-            get { return _Created; }
-            set { _Created = value; }
-        }
-
-        private Guid _Guid;
-        public Guid Guid
-        {
-            get { return _Guid; }
-            set { _Guid = value; }
-        }
-
-        private int _ProcessId;
-        public int ProcessId
-        {
-            get { return _ProcessId; }
-            set { _ProcessId = value; }
-        }
-
-        private object _Arguments;
-        public object Arguments
-        {
-            get { return _Arguments; }
-            set { _Arguments = value; }
-        }
-
-        private int _RecordsTotal;
-        public int RecordsTotal
-        {
-            get { return _RecordsTotal; }
-            set { _RecordsTotal = value; }
-        }
-
-        private int _RecordsCompleted;
-        public int RecordsCompleted
-        {
-            get { return _RecordsCompleted; }
-            set { _RecordsCompleted = value; }
-        }
-
+        public string RunnerName { get; set; }
+        public DateTime Created { get; set; }
+        public Guid Guid { get; set; }
+        public int ProcessId { get; set; }
+        public object Arguments { get; set; }
+        public int RecordsTotal { get; set; }
+        public int RecordsCompleted { get; set; }
         public bool AbortOnError { get; set; }
         public bool AbortOnRepeatedErrors { get; set; }
         public bool IsAborting { get; set; }
